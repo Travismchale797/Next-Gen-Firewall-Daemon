@@ -1,7 +1,7 @@
 # Next-Gen Firewall Daemon (Suricata + Python + iptables) 
 
 This project implements a lightweight “next-gen firewall” style daemon using Python. It monitors 
-Suricata alerts in near real-time and automatically blocks malicious source IP addresses using iptables.   TEsting Testing 
+Suricata alerts in near real-time and automatically blocks malicious source IP addresses using iptables.   
 
 The goal of this project is to simulate a blue-team / SOC workflow:
 - detection via IDS (Suricata)
