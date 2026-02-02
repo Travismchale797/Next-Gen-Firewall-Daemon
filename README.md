@@ -31,7 +31,7 @@ Workflow:
 3. Script detects a target keyword (example: `CUSTOM`)
 4. Source IP is extracted from the alert line
 5. Firewall drop rule is created with iptables
-6. Action is written to `/var/log/blocks.log` for auditing
+6. Action is written to `/var/log/blocks.log` for auditing and 
 
 ---
 
