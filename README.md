@@ -1,4 +1,4 @@
-# Next-Gen Firewall Daemon (Suricata + Python + iptables) TEstgin testin tesdfdsgd
+# Next-Gen Firewall Daemon (Suricata + Python + iptables) TEstgin testin 
 
 This project implements a lightweight “next-gen firewall” style daemon using Python. It monitors 
 Suricata alerts in near real-time and automatically blocks malicious source IP addresses using iptables.  
