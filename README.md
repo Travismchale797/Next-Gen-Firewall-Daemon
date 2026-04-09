@@ -37,13 +37,13 @@ Workflow:
 ## Project Demonstration
 
  1. Suricata Alert Detection
-![Suricata Alerts](images/suricata-ngfw-alerts.png)
+![Suricata Alerts](images/suricata-alerts.png)
 
  2. Python Daemon Processing & Blocking
 ![Daemon Blocking](images/daemon-ip-blocking.png)
 
  3. Firewall Enforcement (iptables)
-![iptables Blocking](images/iptables-blocked-ips.png)
+![iptables Blocking](images/iptables-blocked-traffic.png)
 
 ---
 
