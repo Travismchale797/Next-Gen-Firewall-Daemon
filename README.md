@@ -34,6 +34,19 @@ Workflow:
 
 ---
 
+## Project Demonstration
+
+ 1. Suricata Alert Detection
+![Suricata Alerts](images/suricata-ngfw-alerts.png)
+
+ 2. Python Daemon Processing & Blocking
+![Daemon Blocking](images/daemon-ip-blocking.png)
+
+ 3. Firewall Enforcement (iptables)
+![iptables Blocking](images/iptables-blocked-ips.png)
+
+---
+
 ## Improvements for the future 
 Future improvements for this project include adding whitelist support to prevent trusted IPs from ever being blocked, 
 refining the blocking logic to focus only on external or suspicious IPs (instead of risking internal/local addresses), 
