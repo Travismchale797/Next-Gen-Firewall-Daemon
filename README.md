@@ -40,10 +40,7 @@ Workflow:
 ![Suricata Alerts](images/suricata-alerts.png)
 
  2. Python Daemon Processing & Blocking
-![Daemon Blocking](images/daemon-ip-blocking.png)
-
- 3. Firewall Enforcement (iptables)
-![iptables Blocking](images/iptables-blocked-traffic.png)
+![Daemon Blocking](images/daemon-blocking.png)
 
 ---
 
